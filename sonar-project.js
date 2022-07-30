@@ -4,9 +4,9 @@ sonarqubeScanner({
   serverUrl: 'http://13.127.85.206:9980/',
        options : {
 	    'sonar.projectDescription': 'This is a Node JS application',
-	    'sonar.projectName': 'Node JS Application - Sample',
-	    'sonar.projectKey':'NodeJsMithunTechnologies',
-	    'sonar.login': '9d988128860aaa457ff7729bdfdf996f55cce543',
+	    'sonar.projectName': 'node-pipe-ssh-integ',
+	    'sonar.projectKey':'node-pipe-ssh-integ',
+	    'sonar.login': 'sqa_3d8073fab0090ce5f3cf7e1104ca158102f0fb42',
 	    //'sonar.login': 'admin',
 	    //'sonar.password': 'admin',
             'sonar.projectVersion':'1.0',
